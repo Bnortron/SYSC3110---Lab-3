@@ -30,6 +30,11 @@ public class AddressBook
         buddyList.remove(aBuddy);
     }
 
+    public void branchTest()
+    {
+
+    }
+
     public static void main(String[] args)
     {
         // Construct buddyList

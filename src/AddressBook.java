@@ -41,6 +41,7 @@ public class AddressBook
         addressBook.removeBuddy(buddy);
 
         // Github commit test
+        // Pull from site test
     }
 
 }

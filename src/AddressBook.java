@@ -40,6 +40,7 @@ public class AddressBook
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
 
+        // Github commit test
     }
 
 }
